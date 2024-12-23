@@ -1,0 +1,162 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Technology"
+        },
+        {
+            "id": 2,
+            "name": "Health"
+        },
+        {
+            "id": 3,
+            "name": "Finance"
+        },
+        {
+            "id": 4,
+            "name": "Lifestyle"
+        },
+        {
+            "id": 5,
+            "name": "Travel"
+        },
+        {
+            "id": 6,
+            "name": "Education"
+        },
+        {
+            "id": 7,
+            "name": "Entertainment"
+        },
+        {
+            "id": 8,
+            "name": "Science"
+        }
+    ],
+    "posts": {
+        "Technology": [
+            {
+                "id": 1,
+                "title": "Tech Trends 2024"
+            },
+            {
+                "id": 2,
+                "title": "AI in Development"
+            },
+            {
+                "id": 3,
+                "title": "The Future of Quantum Computing"
+            },
+            {
+                "id": 4,
+                "title": "Top 10 Programming Languages in 2024"
+            }
+        ],
+        "Health": [
+            {
+                "id": 1,
+                "title": "Benefits of Yoga"
+            },
+            {
+                "id": 2,
+                "title": "How to Stay Fit During Winter"
+            },
+            {
+                "id": 3,
+                "title": "Meditation for Beginners"
+            }
+        ],
+        "Finance": [
+            {
+                "id": 1,
+                "title": "Investing 101"
+            },
+            {
+                "id": 2,
+                "title": "Cryptocurrency Basics"
+            },
+            {
+                "id": 3,
+                "title": "Retirement Planning Simplified"
+            },
+            {
+                "id": 4,
+                "title": "Top Financial Tools in 2024"
+            }
+        ],
+        "Lifestyle": [
+            {
+                "id": 1,
+                "title": "Minimalism Tips"
+            },
+            {
+                "id": 2,
+                "title": "Decorating Your Home on a Budget"
+            },
+            {
+                "id": 3,
+                "title": "Healthy Morning Routines"
+            }
+        ],
+        "Travel": [
+            {
+                "id": 1,
+                "title": "Top 10 Travel Destinations in 2024"
+            },
+            {
+                "id": 2,
+                "title": "How to Travel on a Budget"
+            },
+            {
+                "id": 3,
+                "title": "Best Travel Gadgets for 2024"
+            }
+        ],
+        "Education": [
+            {
+                "id": 1,
+                "title": "Online Learning Platforms Comparison"
+            },
+            {
+                "id": 2,
+                "title": "Best Study Habits for Success"
+            },
+            {
+                "id": 3,
+                "title": "The Rise of AI in Education"
+            }
+        ],
+        "Entertainment": [
+            {
+                "id": 1,
+                "title": "Top Movies to Watch in 2024"
+            },
+            {
+                "id": 2,
+                "title": "The Evolution of Gaming"
+            },
+            {
+                "id": 3,
+                "title": "Streaming Services Showdown"
+            }
+        ],
+        "Science": [
+            {
+                "id": 1,
+                "title": "Breakthroughs in Space Exploration"
+            },
+            {
+                "id": 2,
+                "title": "Understanding Climate Change"
+            },
+            {
+                "id": 3,
+                "title": "The Role of AI in Scientific Research"
+            },
+            {
+                "id": 4,
+                "title": "The Mystery of Black Holes"
+            }
+        ]
+    }
+}
