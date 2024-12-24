@@ -42,12 +42,14 @@ export default function About() {
                 <h2 className="text-2xl font-semibold text-gray-800 mt-6 mb-4">Why Next.js?</h2>
                 <p className="text-lg text-gray-700 leading-relaxed mt-6">
                     <strong>Next.js</strong> brings many powerful features to the table:
-                    <ul className="list-inside list-disc pl-6 text-gray-700">
-                        <li>Automatic Static Optimization for fast loading speeds.</li>
-                        <li>Server-side rendering (SSR) for improved SEO and performance.</li>
-                        <li>File-based routing, making it simple to create new pages and routes.</li>
-                        <li>API routes, enabling backend logic without needing a separate server.</li>
-                    </ul>
+                </p>
+                <ul className="list-inside list-disc pl-6 text-gray-700">
+                    <li>Automatic Static Optimization for fast loading speeds.</li>
+                    <li>Server-side rendering (SSR) for improved SEO and performance.</li>
+                    <li>File-based routing, making it simple to create new pages and routes.</li>
+                    <li>API routes, enabling backend logic without needing a separate server.</li>
+                </ul>
+                <p className="text-lg text-gray-700 leading-relaxed mt-6">
                     All of these features combined make Next.js an ideal choice for building fast, scalable, and SEO-friendly web applications like this blog.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed mt-6">

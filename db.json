@@ -36,126 +36,361 @@
     "posts": {
         "Technology": [
             {
-                "id": 1,
-                "title": "Tech Trends 2024"
+                "title": "Tech Trends 2024",
+                "description": "Discover the groundbreaking trends shaping the tech world in 2024.",
+                "price": 120.5,
+                "id": "3bbf73b3-53aa-4ea0-a6f7-733f23d30730",
+                "category": "Technology"
             },
             {
-                "id": 2,
-                "title": "AI in Development"
+                "title": "AI in Development",
+                "description": "Explore how artificial intelligence is revolutionizing software development.",
+                "price": 89.99,
+                "id": "c50755e0-f2d2-4e46-b37f-ae653fc7280e",
+                "category": "Technology"
             },
             {
-                "id": 3,
-                "title": "The Future of Quantum Computing"
+                "title": "The Future of Quantum Computing",
+                "description": "A deep dive into the potential and challenges of quantum computing.",
+                "price": 140.0,
+                "id": "262e0345-bbb7-4b16-a7c9-c1b7f112b491",
+                "category": "Technology"
             },
             {
-                "id": 4,
-                "title": "Top 10 Programming Languages in 2024"
+                "title": "Top 10 Programming Languages in 2024",
+                "description": "A curated list of programming languages dominating the tech industry.",
+                "price": 110.0,
+                "id": "79f855f9-8146-43e9-92d8-7dc7e9a4ecd0",
+                "category": "Technology"
+            },
+            {
+                "title": "5G's Impact on the Internet of Things",
+                "description": "Learn how 5G technology is driving innovation in IoT devices and services.",
+                "price": 99.0,
+                "id": "c6f79bd9-406f-403c-9e8f-5fb036273842",
+                "category": "Technology"
+            },
+            {
+                "title": "Tech Startups to Watch in 2024",
+                "description": "Meet the rising stars of the tech world and their groundbreaking ideas.",
+                "price": 130.0,
+                "id": "b13a6fc3-99bb-47af-b8d5-0fc864cee42b",
+                "category": "Technology"
+            },
+            {
+                "title": "The Role of Cloud Computing in Modern Tech",
+                "description": "An in-depth analysis of how cloud computing is shaping the technology landscape.",
+                "price": 115.0,
+                "id": "9a22159c-b7bc-428a-8e33-d9b5ae3ec09d",
+                "category": "Technology"
             }
         ],
         "Health": [
             {
-                "id": 1,
-                "title": "Benefits of Yoga"
+                "title": "Benefits of Yoga",
+                "description": "Learn the transformative benefits of incorporating yoga into your routine.",
+                "price": 60.0,
+                "id": "d1dce144-6b06-4b5b-9a24-d21f15bd55e9",
+                "category": "Health"
             },
             {
-                "id": 2,
-                "title": "How to Stay Fit During Winter"
+                "title": "How to Stay Fit During Winter",
+                "description": "Practical tips for maintaining fitness and well-being in colder months.",
+                "price": 75.0,
+                "id": "9ae6b40a-df3b-4d0f-acea-e270900b0ed2",
+                "category": "Health"
             },
             {
-                "id": 3,
-                "title": "Meditation for Beginners"
+                "title": "Meditation for Beginners",
+                "description": "A step-by-step guide to starting a meditation practice.",
+                "price": 50.0,
+                "id": "6b37c0e2-3779-4b35-a2a4-166cf5a64675",
+                "category": "Health"
+            },
+            {
+                "title": "The Science Behind Sleep",
+                "description": "Discover the critical role of sleep in overall health and wellness.",
+                "price": 65.0,
+                "id": "ae9906e4-8d90-4dfc-9842-9e7678d2bdda",
+                "category": "Health"
+            },
+            {
+                "title": "Healthy Eating on a Budget",
+                "description": "Simple and cost-effective strategies for maintaining a balanced diet.",
+                "price": 55.0,
+                "id": "61bee748-6df9-4a50-9b18-0193deaa7545",
+                "category": "Health"
+            },
+            {
+                "title": "The Power of Daily Walks",
+                "description": "Why a simple daily walk can drastically improve your mental and physical health.",
+                "price": 70.0,
+                "id": "681bd58f-a1dc-494a-94ca-0cafc8b2393d",
+                "category": "Health"
             }
         ],
         "Finance": [
             {
-                "id": 1,
-                "title": "Investing 101"
+                "title": "Investing 101",
+                "description": "Master the fundamentals of smart investing for long-term growth.",
+                "price": 200.0,
+                "id": "fe6ec01c-dd4d-40b2-8f02-a227024bb45b",
+                "category": "Finance"
             },
             {
-                "id": 2,
-                "title": "Cryptocurrency Basics"
+                "title": "Cryptocurrency Basics",
+                "description": "Understand the key concepts and risks of cryptocurrency investments.",
+                "price": 180.0,
+                "id": "6141ae8d-9463-4f7e-b515-9354e8d81003",
+                "category": "Finance"
             },
             {
-                "id": 3,
-                "title": "Retirement Planning Simplified"
+                "title": "Retirement Planning Simplified",
+                "description": "An easy-to-follow guide to securing your financial future.",
+                "price": 220.0,
+                "id": "92eabd4c-f2b2-4f84-9e84-88b714bf4a6e",
+                "category": "Finance"
             },
             {
-                "id": 4,
-                "title": "Top Financial Tools in 2024"
+                "title": "Top Financial Tools in 2024",
+                "description": "Discover the most effective financial tools to manage your wealth.",
+                "price": 95.0,
+                "id": "647c701f-8da7-4ec1-b619-9f5ea3cb80ca",
+                "category": "Finance"
+            },
+            {
+                "title": "How to Build an Emergency Fund",
+                "description": "Essential steps to create financial security during unexpected events.",
+                "price": 125.0,
+                "id": "68214626-1943-4e86-b61d-ecb44bde7c57",
+                "category": "Finance"
+            },
+            {
+                "title": "Side Hustles to Boost Your Income",
+                "description": "Explore side hustle ideas to generate additional income streams.",
+                "price": 130.0,
+                "id": "60349ad5-3e77-4a5a-9ae9-ee0eacb01241",
+                "category": "Finance"
             }
         ],
         "Lifestyle": [
             {
-                "id": 1,
-                "title": "Minimalism Tips"
+                "title": "Minimalism Tips",
+                "description": "Discover simple strategies to embrace a minimalist lifestyle.",
+                "price": 50.0,
+                "id": "c4eb221b-c7f1-4086-a145-a890dca3a81b",
+                "category": "Lifestyle"
             },
             {
-                "id": 2,
-                "title": "Decorating Your Home on a Budget"
+                "title": "Decorating Your Home on a Budget",
+                "description": "Create a stylish living space without breaking the bank.",
+                "price": 40.0,
+                "id": "da47e143-3a49-4409-b1cb-6e4b78d32604",
+                "category": "Lifestyle"
             },
             {
-                "id": 3,
-                "title": "Healthy Morning Routines"
+                "title": "Healthy Morning Routines",
+                "description": "Incorporate morning habits that promote long-term health and success.",
+                "price": 30.0,
+                "id": "8a526b40-c775-42e0-be64-5a9ae08a2e7f",
+                "category": "Lifestyle"
+            },
+            {
+                "title": "How to Organize Your Life",
+                "description": "Practical steps for better life organization and time management.",
+                "price": 45.0,
+                "id": "d37ee340-3dc5-4b46-ac77-a1773f91ffca",
+                "category": "Lifestyle"
+            },
+            {
+                "title": "Budget-Friendly Travel Ideas",
+                "description": "Plan your next trip without exceeding your budget.",
+                "price": 35.0,
+                "id": "afc73b6a-fee8-486f-a673-56b134f809d3",
+                "category": "Lifestyle"
+            },
+            {
+                "title": "Sustainable Living Tips",
+                "description": "How to reduce your carbon footprint and live more sustainably.",
+                "price": 60.0,
+                "id": "e90fb798-ae53-48f4-84f3-745e5b01db55",
+                "category": "Lifestyle"
             }
         ],
         "Travel": [
             {
-                "id": 1,
-                "title": "Top 10 Travel Destinations in 2024"
+                "title": "Top 10 Travel Destinations in 2024",
+                "description": "Explore the most exciting travel destinations to visit this year.",
+                "price": 90.0,
+                "id": "14497a08-207b-455a-9bf5-cc4bc227a9c7",
+                "category": "Travel"
             },
             {
-                "id": 2,
-                "title": "How to Travel on a Budget"
+                "title": "How to Travel on a Budget",
+                "description": "Tips and tricks for traveling without spending a fortune.",
+                "price": 70.0,
+                "id": "2a3bf433-953c-4f03-bdc0-7c186e7b106e",
+                "category": "Travel"
             },
             {
-                "id": 3,
-                "title": "Best Travel Gadgets for 2024"
+                "title": "Best Travel Gadgets for 2024",
+                "description": "Discover the must-have travel gadgets to make your journey easier.",
+                "price": 80.0,
+                "id": "d16ccb3a-c263-4b88-86f1-cf0fe84f9a02",
+                "category": "Travel"
+            },
+            {
+                "title": "Solo Travel Tips",
+                "description": "Essential advice for those traveling alone, from safety to fun.",
+                "price": 60.0,
+                "id": "e05092b9-d653-45b3-953a-b3763c249306",
+                "category": "Travel"
+            },
+            {
+                "title": "Adventure Travel in 2024",
+                "description": "Experience the thrill of adventure travel with these top picks.",
+                "price": 100.0,
+                "id": "ef33a5eb-1427-495b-acfc-da570210f9cf",
+                "category": "Travel"
+            },
+            {
+                "title": "Top Travel Apps for 2024",
+                "description": "The best apps for booking, planning, and navigating your travels.",
+                "price": 50.0,
+                "id": "17b05633-8cd2-4122-847b-7b25340a9657",
+                "category": "Travel"
             }
         ],
         "Education": [
             {
-                "id": 1,
-                "title": "Online Learning Platforms Comparison"
+                "title": "Online Learning Platforms Comparison",
+                "description": "Compare the top online learning platforms and find the best fit for you.",
+                "price": 65.0,
+                "id": "2312bf05-a19f-4758-881b-8bd32854b77f",
+                "category": "Education"
             },
             {
-                "id": 2,
-                "title": "Best Study Habits for Success"
+                "title": "Best Study Habits for Success",
+                "description": "Implement effective study strategies for better grades and retention.",
+                "price": 45.0,
+                "id": "7f314170-212c-49c2-8d9a-8dcfd7513b2d",
+                "category": "Education"
             },
             {
-                "id": 3,
-                "title": "The Rise of AI in Education"
+                "title": "The Rise of AI in Education",
+                "description": "Explore how artificial intelligence is transforming modern education.",
+                "price": 80.0,
+                "id": "5dc6adc6-f08b-4285-a97b-6715eb8378a1",
+                "category": "Education"
+            },
+            {
+                "title": "Learning Languages Online",
+                "description": "Discover the best online tools for learning new languages.",
+                "price": 55.0,
+                "id": "f99cf69f-4f14-40c1-927a-b04d4c5f3cd1",
+                "category": "Education"
+            },
+            {
+                "title": "The Future of Virtual Classrooms",
+                "description": "Understand the future of education with the growth of virtual classrooms.",
+                "price": 70.0,
+                "id": "e1bf5e98-a164-4d1c-b24b-ac615b3fbad9",
+                "category": "Education"
+            },
+            {
+                "title": "Tips for Effective Remote Learning",
+                "description": "Master the art of remote learning for optimal academic success.",
+                "price": 60.0,
+                "id": "b7de9601-6449-4597-9f9b-3dcfb5c87280",
+                "category": "Education"
             }
         ],
         "Entertainment": [
             {
-                "id": 1,
-                "title": "Top Movies to Watch in 2024"
+                "title": "Top Movies to Watch in 2024",
+                "description": "Catch the most anticipated movie releases of 2024.",
+                "price": 40.0,
+                "id": "c3965caa-fed6-4904-a9f7-78f09974b92e",
+                "category": "Entertainment"
             },
             {
-                "id": 2,
-                "title": "The Evolution of Gaming"
+                "title": "The Evolution of Gaming",
+                "description": "A look at how gaming has evolved and what to expect in the future.",
+                "price": 50.0,
+                "id": "158df42b-5c59-499a-b4cc-069c8c91d593",
+                "category": "Entertainment"
             },
             {
-                "id": 3,
-                "title": "Streaming Services Showdown"
+                "title": "Streaming Services Showdown",
+                "description": "Which streaming service reigns supreme in 2024? Find out here.",
+                "price": 60.0,
+                "id": "485d237c-34b0-4129-9003-7f3d4ff3acca",
+                "category": "Entertainment"
+            },
+            {
+                "title": "Virtual Reality in Entertainment",
+                "description": "Explore how VR is changing the way we experience entertainment.",
+                "price": 70.0,
+                "id": "949150f3-c41e-459f-bcf8-94efdade1b3d",
+                "category": "Entertainment"
+            },
+            {
+                "title": "The Best TV Shows of 2024",
+                "description": "Discover the most popular TV shows that everyone is talking about.",
+                "price": 45.0,
+                "id": "6001c0db-a99c-4ba1-bcdd-35943cbc8532",
+                "category": "Entertainment"
+            },
+            {
+                "title": "Gaming in the Cloud",
+                "description": "The future of gaming lies in the cloud\u2014find out why.",
+                "price": 55.0,
+                "id": "3d156616-553a-4022-8544-979a09734823",
+                "category": "Entertainment"
             }
         ],
         "Science": [
             {
-                "id": 1,
-                "title": "Breakthroughs in Space Exploration"
+                "title": "Breakthroughs in Space Exploration",
+                "description": "Exciting new developments in space exploration and research.",
+                "price": 90.0,
+                "id": "6b1025b1-ba9d-457c-9332-ddd80dbd6d4c",
+                "category": "Science"
             },
             {
-                "id": 2,
-                "title": "Understanding Climate Change"
+                "title": "Understanding Climate Change",
+                "description": "Learn the science behind climate change and its global effects.",
+                "price": 100.0,
+                "id": "99d580a2-7722-4e00-a814-59ed20b4887e",
+                "category": "Science"
             },
             {
-                "id": 3,
-                "title": "The Role of AI in Scientific Research"
+                "title": "The Role of AI in Scientific Research",
+                "description": "Explore how AI is accelerating breakthroughs in scientific fields.",
+                "price": 85.0,
+                "id": "3e0eb4a7-1b25-4f99-8f2d-5efc0be59afc",
+                "category": "Science"
             },
             {
-                "id": 4,
-                "title": "The Mystery of Black Holes"
+                "title": "The Mystery of Black Holes",
+                "description": "Delve into the enigma of black holes and their role in the universe.",
+                "price": 120.0,
+                "id": "a4873bab-6794-4e88-9394-3e002f5f43f8",
+                "category": "Science"
+            },
+            {
+                "title": "The Future of Renewable Energy",
+                "description": "Understand the next steps in the shift to renewable energy sources.",
+                "price": 75.0,
+                "id": "71703fd2-9de2-4d06-9343-1101b0df2889",
+                "category": "Science"
+            },
+            {
+                "title": "Medical Science Innovations",
+                "description": "Discover the latest innovations transforming healthcare and medicine.",
+                "price": 95.0,
+                "id": "ee21dd33-8541-4553-80e0-fda6dbe6cafa",
+                "category": "Science"
             }
         ]
     }
