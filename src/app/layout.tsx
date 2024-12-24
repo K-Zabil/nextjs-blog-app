@@ -1,5 +1,6 @@
 import Link from "next/link";
 import "./globals.css";
+import { FilterProvider } from "@/context/FilterContext";
 
 export const metadata = {
   title: "Blog App",
@@ -29,7 +30,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </nav>
         </header>
         <main className="max-w-7xl mx-auto p-6 mt-6 bg-white shadow-lg rounded-lg">
-          {children}
+          <FilterProvider>
+            {children}
+          </FilterProvider>
         </main>
         <footer className="bg-gray-800 text-white py-4 mt-10">
           <div className="max-w-7xl mx-auto text-center">
