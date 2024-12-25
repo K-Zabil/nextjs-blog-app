@@ -1,8 +1,8 @@
 import Link from "next/link";
 import "./globals.css";
 import { getServerSession } from "next-auth";
-import { authOptions } from "@/app/api/auth/[...nextauth]";
 import RootClientProviders from "@/components/RootClientProviders";
+import { authOptions } from "./api/auth/[...nextauth]/route";
 
 export const metadata = {
   title: "Blog App",
